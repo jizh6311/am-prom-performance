@@ -1,0 +1,14 @@
+{
+  "name": "am-prom-performance-testing",
+  "version": "1.0.0",
+  "description": "performance testing for Prometheus tools in Aspen Mesh",
+  "main": "script.js",
+  "scripts": {
+    "test": "k6 run script.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "k6": "^0.0.0"
+  }
+}
