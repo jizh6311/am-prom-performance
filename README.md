@@ -4,6 +4,7 @@
 
 ## Overview
 Node version: 16.13.1
+
 Run `npm run test` to kick off the loading test.
 
 The current scripts written by [k6](https://k6.io/docs/) only test the performance of the query endpoints.
